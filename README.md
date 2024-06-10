@@ -1,5 +1,5 @@
 # meshtastic dev board
-Dev board using hardware modules and cards found in online shop
+Dev board using hardware modules and cards found in online shops
 
 [Firmware](https://github.com/fzellini/meshtastic-firmware/tree/iqdata) is a fork of official meshtastic firmware, i added a new project environment "iqdata".
 
