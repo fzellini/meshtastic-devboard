@@ -12,3 +12,6 @@ Relevant files are in [/variants/diy/iqdata/ ](https://github.com/fzellini/mesht
 # meshtastic dev board first prototype
 ![schematic diagram](img/prototype-1.png)
 
+# pwr supply with solar panel
+![schematic diagram](img/pwr-supply.jpg)
+
